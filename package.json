@@ -1,0 +1,25 @@
+{
+  "name": "getpkg",
+  "version": "1.0.0",
+  "description": "The fastest way to get the root-level package.json as an object",
+  "main": "index.js",
+  "author": "Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/nof1000/getpkg#README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nof1000/getpkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nof1000/getpkg/issues"
+  },
+  "keywords": [
+    "package.json",
+    "node.js",
+    "package",
+    "json",
+    "node",
+    "read",
+    "root"
+  ],
+}
