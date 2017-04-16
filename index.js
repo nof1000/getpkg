@@ -1,5 +1,5 @@
 /**
- * The fastest way get root-package
+ * The fastest way to get the root-level package.json as an object
  *
  * @module getpkg
  * @author Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)
