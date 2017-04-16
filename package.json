@@ -1,6 +1,6 @@
 {
   "name": "getpkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The fastest way to get the root-level package.json as an object",
   "main": "index.js",
   "author": "Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)",
