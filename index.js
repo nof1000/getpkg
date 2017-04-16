@@ -41,11 +41,11 @@ function getLastParent(obj) {
 /**
  * Returns the root-level package.json as an object
  *
- * @param {Object as Module} target
+ * @param  {Object} target - a non-default module
  * @return {Object}
  */
-function getpkg() {
-    const lastModule = getLastParent(module);
+function getpkg(target = module) {
+    const lastModule = getLastParent(target);
     const pathname = dirname(lastModule.filename);
     let package = null;
 
